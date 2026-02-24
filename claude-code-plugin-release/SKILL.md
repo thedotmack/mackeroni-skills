@@ -1,5 +1,5 @@
 ---
-name: version-bump
+name: claude-code-plugin-release
 description: Automated semantic versioning and release workflow for Claude Code plugins. Handles version increments across package.json, marketplace.json, and plugin.json, build verification, git tagging, GitHub releases, and changelog generation.
 ---
 
