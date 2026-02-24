@@ -1,16 +1,19 @@
-<img src="mackeroni-skills-logo.png" align="left" width="250" style="margin-right: 20px; border-radius: 12px;" />
-
-# Mackeroni Skills
-
-**A curated collection of specialized, high-signal agent skills for Claude Code and Gemini CLI.**
-
-<p>
-  <a href="https://github.com/thedotmack/mackeroni-skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license" /></a>
-  <a href="#included-skills"><img src="https://img.shields.io/badge/skills-3-FB8500.svg" alt="Skills Count" /></a>
-  <a href="https://github.com/thedotmack/mackeroni-skills/pulls"><img src="https://img.shields.io/badge/PRs-welcome-219EBC.svg" alt="PRs Welcome" /></a>
-</p>
-
-<br clear="left"/>
+<table border="0">
+  <tr>
+    <td width="260" valign="top">
+      <img src="mackeroni-skills-logo.png" alt="Mackeroni Skills Logo" width="250" style="border-radius: 12px;" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h1>Mackeroni Skills</h1>
+      <p><strong>A curated collection of specialized, high-signal agent skills for Claude Code and Gemini CLI.</strong></p>
+      <p>
+        <a href="https://github.com/thedotmack/mackeroni-skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license" /></a>
+        <a href="#included-skills"><img src="https://img.shields.io/badge/skills-3-FB8500.svg" alt="Skills Count" /></a>
+        <a href="https://github.com/thedotmack/mackeroni-skills/pulls"><img src="https://img.shields.io/badge/PRs-welcome-219EBC.svg" alt="PRs Welcome" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
