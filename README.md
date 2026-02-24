@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mackeroni-skills-logo.png" alt="Mackeroni Skills Logo" width="600" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="mackeroni-skills-logo.png" alt="Mackeroni Skills Logo" width="250" style="border-radius: 12px; margin-bottom: 20px;" />
 
   # Mackeroni Skills
 
